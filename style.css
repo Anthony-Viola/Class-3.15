@@ -1,7 +1,9 @@
 h1 {
     color: brown;
     font-size: 30px;
-    text-decoration: underline;}
+    text-decoration: underline;
+    flex-flow: row wrap;
+}
 p {
     color: aqua;
     text-align: center;
