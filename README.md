@@ -1,5 +1,6 @@
 # Class-3.15
 This is my practice repository for Github.
-Third line in this file!
-Trying to do this solo again.
-Continuing to add text until everyone is caught up.
+Hoping I can pick this up easy.
+Trying to do this solo is tough!
+With practice this gets much easier.
+Though it seems there is always something new to add!

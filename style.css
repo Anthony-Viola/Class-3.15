@@ -1,22 +1,28 @@
 h1 {
     color: brown;
-    font-size: 30px;
+    font-size: 45px;
     text-decoration: underline;
     flex-flow: row wrap;
+    text-align: center;
 }
 p {
-    color: aqua;
+    color: darkcyan;
     text-align: center;
-    background-color: tan;
+    font-size: 35px;
 }
 h2 { 
     color: blue;
-    font-size: 25px;
+    font-size: 45px;
     font-style: italic;
+    text-align: center;
 }
 h3 {
     color: aquamarine;
-    font-size: 20px;
-    text-align: right;
-    text-decoration: underline;
+    font-size: 45px;
+    text-align: center
+}
+.one {
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
